@@ -1,0 +1,1102 @@
+[
+  {
+    "nombre": "Electric Kettle 1",
+    "descripcion": "Optimizado para un rendimiento superior en cualquier entorno.",
+    "precio": 133.88,
+    "categoria_id": 3,
+    "atributos": {
+      "talla": "XL",
+      "color": "amarillo"
+    },
+    "stock": 70
+  },
+  {
+    "nombre": "LED Desk Lamp 2",
+    "descripcion": "Producto de alta calidad diseñado para uso diario.",
+    "precio": 141.23,
+    "categoria_id": 8,
+    "atributos": {
+      "talla": "Única",
+      "color": "rojo"
+    },
+    "stock": 97
+  },
+  {
+    "nombre": "Coffee Mug 3",
+    "descripcion": "Ofrece un equilibrio ideal entre calidad y precio.",
+    "precio": 232.75,
+    "categoria_id": 1,
+    "atributos": {
+      "talla": "L",
+      "color": "negro"
+    },
+    "stock": 78
+  },
+  {
+    "nombre": "Office Chair 4",
+    "descripcion": "Versátil y práctico en múltiples situaciones.",
+    "precio": 97.17,
+    "categoria_id": 1,
+    "atributos": {
+      "talla": "Única",
+      "color": "verde"
+    },
+    "stock": 86
+  },
+  {
+    "nombre": "Sunglasses 5",
+    "descripcion": "Versátil y práctico en múltiples situaciones.",
+    "precio": 254.58,
+    "categoria_id": 7,
+    "atributos": {
+      "talla": "L",
+      "color": "amarillo"
+    },
+    "stock": 100
+  },
+  {
+    "nombre": "Wireless Headphones 6",
+    "descripcion": "Material resistente y duradero, ideal para actividades prolongadas.",
+    "precio": 146.46,
+    "categoria_id": 2,
+    "atributos": {
+      "talla": "M",
+      "color": "verde"
+    },
+    "stock": 49
+  },
+  {
+    "nombre": "Power Bank 7",
+    "descripcion": "Producto confiable con larga vida útil.",
+    "precio": 237.49,
+    "categoria_id": 7,
+    "atributos": {
+      "talla": "L",
+      "color": "azul"
+    },
+    "stock": 20
+  },
+  {
+    "nombre": "Sunglasses 8",
+    "descripcion": "Perfecto para quienes buscan comodidad y eficiencia.",
+    "precio": 15.9,
+    "categoria_id": 1,
+    "atributos": {
+      "talla": "L",
+      "color": "rojo"
+    },
+    "stock": 49
+  },
+  {
+    "nombre": "Office Chair 9",
+    "descripcion": "Versátil y práctico en múltiples situaciones.",
+    "precio": 273.41,
+    "categoria_id": 5,
+    "atributos": {
+      "talla": "L",
+      "color": "gris"
+    },
+    "stock": 121
+  },
+  {
+    "nombre": "Portable Hard Drive 10",
+    "descripcion": "Producto confiable con larga vida útil.",
+    "precio": 219.05,
+    "categoria_id": 2,
+    "atributos": {
+      "talla": "XL",
+      "color": "gris"
+    },
+    "stock": 173
+  },
+  {
+    "nombre": "Sports Shoes 11",
+    "descripcion": "Cuenta con características que mejoran la experiencia del usuario.",
+    "precio": 182.94,
+    "categoria_id": 6,
+    "atributos": {
+      "talla": "XL",
+      "color": "amarillo"
+    },
+    "stock": 166
+  },
+  {
+    "nombre": "Portable Hard Drive 12",
+    "descripcion": "Perfecto para quienes buscan comodidad y eficiencia.",
+    "precio": 296.13,
+    "categoria_id": 10,
+    "atributos": {
+      "talla": "M",
+      "color": "amarillo"
+    },
+    "stock": 10
+  },
+  {
+    "nombre": "Wireless Headphones 13",
+    "descripcion": "Diseño moderno con excelente funcionalidad.",
+    "precio": 233.62,
+    "categoria_id": 4,
+    "atributos": {
+      "talla": "M",
+      "color": "rojo"
+    },
+    "stock": 177
+  },
+  {
+    "nombre": "Backpack 14",
+    "descripcion": "Perfecto para quienes buscan comodidad y eficiencia.",
+    "precio": 60.75,
+    "categoria_id": 4,
+    "atributos": {
+      "talla": "M",
+      "color": "blanco"
+    },
+    "stock": 193
+  },
+  {
+    "nombre": "Bluetooth Speaker 15",
+    "descripcion": "Cuenta con características que mejoran la experiencia del usuario.",
+    "precio": 26.14,
+    "categoria_id": 6,
+    "atributos": {
+      "talla": "XL",
+      "color": "rojo"
+    },
+    "stock": 169
+  },
+  {
+    "nombre": "LED Desk Lamp 16",
+    "descripcion": "Diseño moderno con excelente funcionalidad.",
+    "precio": 272.57,
+    "categoria_id": 9,
+    "atributos": {
+      "talla": "M",
+      "color": "blanco"
+    },
+    "stock": 156
+  },
+  {
+    "nombre": "Backpack 17",
+    "descripcion": "Material resistente y duradero, ideal para actividades prolongadas.",
+    "precio": 59.12,
+    "categoria_id": 3,
+    "atributos": {
+      "talla": "S",
+      "color": "amarillo"
+    },
+    "stock": 10
+  },
+  {
+    "nombre": "Bluetooth Speaker 18",
+    "descripcion": "Producto de alta calidad diseñado para uso diario.",
+    "precio": 233.6,
+    "categoria_id": 5,
+    "atributos": {
+      "talla": "L",
+      "color": "verde"
+    },
+    "stock": 66
+  },
+  {
+    "nombre": "Sunglasses 19",
+    "descripcion": "Ofrece un equilibrio ideal entre calidad y precio.",
+    "precio": 269.67,
+    "categoria_id": 9,
+    "atributos": {
+      "talla": "M",
+      "color": "blanco"
+    },
+    "stock": 97
+  },
+  {
+    "nombre": "Backpack 20",
+    "descripcion": "Producto de alta calidad diseñado para uso diario.",
+    "precio": 291.31,
+    "categoria_id": 5,
+    "atributos": {
+      "talla": "L",
+      "color": "azul"
+    },
+    "stock": 108
+  },
+  {
+    "nombre": "Sunglasses 21",
+    "descripcion": "Perfecto para quienes buscan comodidad y eficiencia.",
+    "precio": 119.28,
+    "categoria_id": 4,
+    "atributos": {
+      "talla": "S",
+      "color": "verde"
+    },
+    "stock": 180
+  },
+  {
+    "nombre": "Stainless Steel Bottle 22",
+    "descripcion": "Producto confiable con larga vida útil.",
+    "precio": 53.61,
+    "categoria_id": 7,
+    "atributos": {
+      "talla": "XL",
+      "color": "negro"
+    },
+    "stock": 137
+  },
+  {
+    "nombre": "Backpack 23",
+    "descripcion": "Producto de alta calidad diseñado para uso diario.",
+    "precio": 103.01,
+    "categoria_id": 3,
+    "atributos": {
+      "talla": "Única",
+      "color": "amarillo"
+    },
+    "stock": 31
+  },
+  {
+    "nombre": "LED Desk Lamp 24",
+    "descripcion": "Producto de alta calidad diseñado para uso diario.",
+    "precio": 285.52,
+    "categoria_id": 8,
+    "atributos": {
+      "talla": "XL",
+      "color": "negro"
+    },
+    "stock": 155
+  },
+  {
+    "nombre": "HDMI Cable 25",
+    "descripcion": "Diseño moderno con excelente funcionalidad.",
+    "precio": 277.56,
+    "categoria_id": 9,
+    "atributos": {
+      "talla": "XL",
+      "color": "gris"
+    },
+    "stock": 64
+  },
+  {
+    "nombre": "USB-C Charger 26",
+    "descripcion": "Producto confiable con larga vida útil.",
+    "precio": 49.45,
+    "categoria_id": 4,
+    "atributos": {
+      "talla": "XL",
+      "color": "rojo"
+    },
+    "stock": 60
+  },
+  {
+    "nombre": "Coffee Mug 27",
+    "descripcion": "Cuenta con características que mejoran la experiencia del usuario.",
+    "precio": 136.46,
+    "categoria_id": 9,
+    "atributos": {
+      "talla": "M",
+      "color": "gris"
+    },
+    "stock": 60
+  },
+  {
+    "nombre": "Smartwatch 28",
+    "descripcion": "Producto confiable con larga vida útil.",
+    "precio": 110.75,
+    "categoria_id": 3,
+    "atributos": {
+      "talla": "S",
+      "color": "azul"
+    },
+    "stock": 167
+  },
+  {
+    "nombre": "HDMI Cable 29",
+    "descripcion": "Versátil y práctico en múltiples situaciones.",
+    "precio": 106.03,
+    "categoria_id": 3,
+    "atributos": {
+      "talla": "Única",
+      "color": "rojo"
+    },
+    "stock": 75
+  },
+  {
+    "nombre": "Cotton T-Shirt 30",
+    "descripcion": "Ofrece un equilibrio ideal entre calidad y precio.",
+    "precio": 43.8,
+    "categoria_id": 7,
+    "atributos": {
+      "talla": "L",
+      "color": "amarillo"
+    },
+    "stock": 149
+  },
+  {
+    "nombre": "Stainless Steel Bottle 31",
+    "descripcion": "Perfecto para quienes buscan comodidad y eficiencia.",
+    "precio": 152.18,
+    "categoria_id": 3,
+    "atributos": {
+      "talla": "L",
+      "color": "amarillo"
+    },
+    "stock": 133
+  },
+  {
+    "nombre": "Electric Kettle 32",
+    "descripcion": "Cuenta con características que mejoran la experiencia del usuario.",
+    "precio": 172.42,
+    "categoria_id": 6,
+    "atributos": {
+      "talla": "XL",
+      "color": "verde"
+    },
+    "stock": 61
+  },
+  {
+    "nombre": "Power Bank 33",
+    "descripcion": "Perfecto para quienes buscan comodidad y eficiencia.",
+    "precio": 39.86,
+    "categoria_id": 8,
+    "atributos": {
+      "talla": "XL",
+      "color": "amarillo"
+    },
+    "stock": 200
+  },
+  {
+    "nombre": "Sports Shoes 34",
+    "descripcion": "Ofrece un equilibrio ideal entre calidad y precio.",
+    "precio": 169.71,
+    "categoria_id": 10,
+    "atributos": {
+      "talla": "XL",
+      "color": "blanco"
+    },
+    "stock": 91
+  },
+  {
+    "nombre": "Mini Fan 35",
+    "descripcion": "Optimizado para un rendimiento superior en cualquier entorno.",
+    "precio": 198.37,
+    "categoria_id": 1,
+    "atributos": {
+      "talla": "Única",
+      "color": "verde"
+    },
+    "stock": 41
+  },
+  {
+    "nombre": "Sunglasses 36",
+    "descripcion": "Diseño moderno con excelente funcionalidad.",
+    "precio": 53.79,
+    "categoria_id": 8,
+    "atributos": {
+      "talla": "S",
+      "color": "negro"
+    },
+    "stock": 144
+  },
+  {
+    "nombre": "Gaming Mouse 37",
+    "descripcion": "Producto de alta calidad diseñado para uso diario.",
+    "precio": 75.91,
+    "categoria_id": 4,
+    "atributos": {
+      "talla": "M",
+      "color": "negro"
+    },
+    "stock": 20
+  },
+  {
+    "nombre": "Electric Kettle 38",
+    "descripcion": "Perfecto para quienes buscan comodidad y eficiencia.",
+    "precio": 187.84,
+    "categoria_id": 8,
+    "atributos": {
+      "talla": "L",
+      "color": "azul"
+    },
+    "stock": 111
+  },
+  {
+    "nombre": "Wireless Headphones 39",
+    "descripcion": "Producto confiable con larga vida útil.",
+    "precio": 79.24,
+    "categoria_id": 2,
+    "atributos": {
+      "talla": "Única",
+      "color": "blanco"
+    },
+    "stock": 16
+  },
+  {
+    "nombre": "Electric Kettle 40",
+    "descripcion": "Fabricado con materiales premium para mayor rendimiento.",
+    "precio": 34.57,
+    "categoria_id": 3,
+    "atributos": {
+      "talla": "L",
+      "color": "rojo"
+    },
+    "stock": 45
+  },
+  {
+    "nombre": "Coffee Mug 41",
+    "descripcion": "Fabricado con materiales premium para mayor rendimiento.",
+    "precio": 27.01,
+    "categoria_id": 3,
+    "atributos": {
+      "talla": "S",
+      "color": "gris"
+    },
+    "stock": 85
+  },
+  {
+    "nombre": "Sports Shoes 42",
+    "descripcion": "Cuenta con características que mejoran la experiencia del usuario.",
+    "precio": 224.82,
+    "categoria_id": 8,
+    "atributos": {
+      "talla": "Única",
+      "color": "negro"
+    },
+    "stock": 168
+  },
+  {
+    "nombre": "Coffee Mug 43",
+    "descripcion": "Producto de alta calidad diseñado para uso diario.",
+    "precio": 182.49,
+    "categoria_id": 5,
+    "atributos": {
+      "talla": "L",
+      "color": "gris"
+    },
+    "stock": 147
+  },
+  {
+    "nombre": "HDMI Cable 44",
+    "descripcion": "Optimizado para un rendimiento superior en cualquier entorno.",
+    "precio": 24.65,
+    "categoria_id": 4,
+    "atributos": {
+      "talla": "XL",
+      "color": "azul"
+    },
+    "stock": 169
+  },
+  {
+    "nombre": "Yoga Mat 45",
+    "descripcion": "Producto de alta calidad diseñado para uso diario.",
+    "precio": 209.54,
+    "categoria_id": 8,
+    "atributos": {
+      "talla": "S",
+      "color": "verde"
+    },
+    "stock": 159
+  },
+  {
+    "nombre": "Gaming Mouse 46",
+    "descripcion": "Cuenta con características que mejoran la experiencia del usuario.",
+    "precio": 298.77,
+    "categoria_id": 7,
+    "atributos": {
+      "talla": "M",
+      "color": "negro"
+    },
+    "stock": 93
+  },
+  {
+    "nombre": "Wireless Headphones 47",
+    "descripcion": "Cuenta con características que mejoran la experiencia del usuario.",
+    "precio": 253.34,
+    "categoria_id": 3,
+    "atributos": {
+      "talla": "Única",
+      "color": "rojo"
+    },
+    "stock": 187
+  },
+  {
+    "nombre": "Gaming Mouse 48",
+    "descripcion": "Fabricado con materiales premium para mayor rendimiento.",
+    "precio": 76.74,
+    "categoria_id": 2,
+    "atributos": {
+      "talla": "L",
+      "color": "azul"
+    },
+    "stock": 102
+  },
+  {
+    "nombre": "Smartwatch 49",
+    "descripcion": "Producto confiable con larga vida útil.",
+    "precio": 285.16,
+    "categoria_id": 9,
+    "atributos": {
+      "talla": "Única",
+      "color": "gris"
+    },
+    "stock": 191
+  },
+  {
+    "nombre": "Office Chair 50",
+    "descripcion": "Fabricado con materiales premium para mayor rendimiento.",
+    "precio": 13.15,
+    "categoria_id": 7,
+    "atributos": {
+      "talla": "XL",
+      "color": "gris"
+    },
+    "stock": 36
+  },
+  {
+    "nombre": "Power Bank 51",
+    "descripcion": "Cuenta con características que mejoran la experiencia del usuario.",
+    "precio": 278.53,
+    "categoria_id": 5,
+    "atributos": {
+      "talla": "L",
+      "color": "amarillo"
+    },
+    "stock": 160
+  },
+  {
+    "nombre": "Office Chair 52",
+    "descripcion": "Ofrece un equilibrio ideal entre calidad y precio.",
+    "precio": 26.4,
+    "categoria_id": 3,
+    "atributos": {
+      "talla": "XL",
+      "color": "amarillo"
+    },
+    "stock": 153
+  },
+  {
+    "nombre": "Cotton T-Shirt 53",
+    "descripcion": "Optimizado para un rendimiento superior en cualquier entorno.",
+    "precio": 29.11,
+    "categoria_id": 9,
+    "atributos": {
+      "talla": "XL",
+      "color": "amarillo"
+    },
+    "stock": 160
+  },
+  {
+    "nombre": "Wireless Headphones 54",
+    "descripcion": "Material resistente y duradero, ideal para actividades prolongadas.",
+    "precio": 107.76,
+    "categoria_id": 7,
+    "atributos": {
+      "talla": "Única",
+      "color": "rojo"
+    },
+    "stock": 19
+  },
+  {
+    "nombre": "Keyboard Mechanical 55",
+    "descripcion": "Fabricado con materiales premium para mayor rendimiento.",
+    "precio": 53.08,
+    "categoria_id": 1,
+    "atributos": {
+      "talla": "Única",
+      "color": "rojo"
+    },
+    "stock": 186
+  },
+  {
+    "nombre": "Yoga Mat 56",
+    "descripcion": "Producto de alta calidad diseñado para uso diario.",
+    "precio": 10.6,
+    "categoria_id": 9,
+    "atributos": {
+      "talla": "L",
+      "color": "gris"
+    },
+    "stock": 168
+  },
+  {
+    "nombre": "Office Chair 57",
+    "descripcion": "Perfecto para quienes buscan comodidad y eficiencia.",
+    "precio": 117.47,
+    "categoria_id": 5,
+    "atributos": {
+      "talla": "S",
+      "color": "blanco"
+    },
+    "stock": 8
+  },
+  {
+    "nombre": "Portable Hard Drive 58",
+    "descripcion": "Diseño moderno con excelente funcionalidad.",
+    "precio": 51.94,
+    "categoria_id": 7,
+    "atributos": {
+      "talla": "Única",
+      "color": "azul"
+    },
+    "stock": 20
+  },
+  {
+    "nombre": "Cotton T-Shirt 59",
+    "descripcion": "Producto confiable con larga vida útil.",
+    "precio": 178.54,
+    "categoria_id": 10,
+    "atributos": {
+      "talla": "M",
+      "color": "amarillo"
+    },
+    "stock": 184
+  },
+  {
+    "nombre": "Yoga Mat 60",
+    "descripcion": "Producto de alta calidad diseñado para uso diario.",
+    "precio": 110.6,
+    "categoria_id": 2,
+    "atributos": {
+      "talla": "Única",
+      "color": "negro"
+    },
+    "stock": 49
+  },
+  {
+    "nombre": "Backpack 61",
+    "descripcion": "Fabricado con materiales premium para mayor rendimiento.",
+    "precio": 20.27,
+    "categoria_id": 4,
+    "atributos": {
+      "talla": "S",
+      "color": "negro"
+    },
+    "stock": 143
+  },
+  {
+    "nombre": "Yoga Mat 62",
+    "descripcion": "Producto de alta calidad diseñado para uso diario.",
+    "precio": 103.98,
+    "categoria_id": 10,
+    "atributos": {
+      "talla": "L",
+      "color": "rojo"
+    },
+    "stock": 30
+  },
+  {
+    "nombre": "Keyboard Mechanical 63",
+    "descripcion": "Producto confiable con larga vida útil.",
+    "precio": 273.58,
+    "categoria_id": 10,
+    "atributos": {
+      "talla": "Única",
+      "color": "rojo"
+    },
+    "stock": 163
+  },
+  {
+    "nombre": "Electric Kettle 64",
+    "descripcion": "Versátil y práctico en múltiples situaciones.",
+    "precio": 289.74,
+    "categoria_id": 3,
+    "atributos": {
+      "talla": "Única",
+      "color": "blanco"
+    },
+    "stock": 80
+  },
+  {
+    "nombre": "Yoga Mat 65",
+    "descripcion": "Producto confiable con larga vida útil.",
+    "precio": 258.54,
+    "categoria_id": 6,
+    "atributos": {
+      "talla": "XL",
+      "color": "amarillo"
+    },
+    "stock": 43
+  },
+  {
+    "nombre": "Stainless Steel Bottle 66",
+    "descripcion": "Optimizado para un rendimiento superior en cualquier entorno.",
+    "precio": 240.42,
+    "categoria_id": 10,
+    "atributos": {
+      "talla": "L",
+      "color": "negro"
+    },
+    "stock": 13
+  },
+  {
+    "nombre": "Portable Hard Drive 67",
+    "descripcion": "Material resistente y duradero, ideal para actividades prolongadas.",
+    "precio": 203.93,
+    "categoria_id": 3,
+    "atributos": {
+      "talla": "Única",
+      "color": "gris"
+    },
+    "stock": 190
+  },
+  {
+    "nombre": "Mini Fan 68",
+    "descripcion": "Cuenta con características que mejoran la experiencia del usuario.",
+    "precio": 253.48,
+    "categoria_id": 1,
+    "atributos": {
+      "talla": "S",
+      "color": "blanco"
+    },
+    "stock": 25
+  },
+  {
+    "nombre": "Cotton T-Shirt 69",
+    "descripcion": "Versátil y práctico en múltiples situaciones.",
+    "precio": 135.86,
+    "categoria_id": 8,
+    "atributos": {
+      "talla": "L",
+      "color": "amarillo"
+    },
+    "stock": 124
+  },
+  {
+    "nombre": "Sports Shoes 70",
+    "descripcion": "Optimizado para un rendimiento superior en cualquier entorno.",
+    "precio": 246.63,
+    "categoria_id": 7,
+    "atributos": {
+      "talla": "L",
+      "color": "gris"
+    },
+    "stock": 23
+  },
+  {
+    "nombre": "Cotton T-Shirt 71",
+    "descripcion": "Ofrece un equilibrio ideal entre calidad y precio.",
+    "precio": 232.67,
+    "categoria_id": 8,
+    "atributos": {
+      "talla": "L",
+      "color": "gris"
+    },
+    "stock": 7
+  },
+  {
+    "nombre": "Cotton T-Shirt 72",
+    "descripcion": "Cuenta con características que mejoran la experiencia del usuario.",
+    "precio": 48.25,
+    "categoria_id": 2,
+    "atributos": {
+      "talla": "M",
+      "color": "amarillo"
+    },
+    "stock": 194
+  },
+  {
+    "nombre": "Office Chair 73",
+    "descripcion": "Perfecto para quienes buscan comodidad y eficiencia.",
+    "precio": 234.13,
+    "categoria_id": 6,
+    "atributos": {
+      "talla": "Única",
+      "color": "negro"
+    },
+    "stock": 111
+  },
+  {
+    "nombre": "Smartwatch 74",
+    "descripcion": "Optimizado para un rendimiento superior en cualquier entorno.",
+    "precio": 174.2,
+    "categoria_id": 1,
+    "atributos": {
+      "talla": "M",
+      "color": "negro"
+    },
+    "stock": 91
+  },
+  {
+    "nombre": "Gaming Mouse 75",
+    "descripcion": "Diseño moderno con excelente funcionalidad.",
+    "precio": 178.67,
+    "categoria_id": 4,
+    "atributos": {
+      "talla": "XL",
+      "color": "rojo"
+    },
+    "stock": 122
+  },
+  {
+    "nombre": "Coffee Mug 76",
+    "descripcion": "Perfecto para quienes buscan comodidad y eficiencia.",
+    "precio": 157.84,
+    "categoria_id": 7,
+    "atributos": {
+      "talla": "L",
+      "color": "amarillo"
+    },
+    "stock": 28
+  },
+  {
+    "nombre": "Coffee Mug 77",
+    "descripcion": "Producto confiable con larga vida útil.",
+    "precio": 126.03,
+    "categoria_id": 5,
+    "atributos": {
+      "talla": "XL",
+      "color": "gris"
+    },
+    "stock": 115
+  },
+  {
+    "nombre": "Electric Kettle 78",
+    "descripcion": "Optimizado para un rendimiento superior en cualquier entorno.",
+    "precio": 52.29,
+    "categoria_id": 8,
+    "atributos": {
+      "talla": "Única",
+      "color": "rojo"
+    },
+    "stock": 111
+  },
+  {
+    "nombre": "Electric Kettle 79",
+    "descripcion": "Optimizado para un rendimiento superior en cualquier entorno.",
+    "precio": 276.5,
+    "categoria_id": 6,
+    "atributos": {
+      "talla": "L",
+      "color": "azul"
+    },
+    "stock": 194
+  },
+  {
+    "nombre": "Office Chair 80",
+    "descripcion": "Producto de alta calidad diseñado para uso diario.",
+    "precio": 36.12,
+    "categoria_id": 3,
+    "atributos": {
+      "talla": "M",
+      "color": "gris"
+    },
+    "stock": 90
+  },
+  {
+    "nombre": "Bluetooth Speaker 81",
+    "descripcion": "Fabricado con materiales premium para mayor rendimiento.",
+    "precio": 21.16,
+    "categoria_id": 3,
+    "atributos": {
+      "talla": "XL",
+      "color": "negro"
+    },
+    "stock": 130
+  },
+  {
+    "nombre": "Mini Fan 82",
+    "descripcion": "Versátil y práctico en múltiples situaciones.",
+    "precio": 119.38,
+    "categoria_id": 3,
+    "atributos": {
+      "talla": "S",
+      "color": "amarillo"
+    },
+    "stock": 55
+  },
+  {
+    "nombre": "Sunglasses 83",
+    "descripcion": "Diseño moderno con excelente funcionalidad.",
+    "precio": 218.95,
+    "categoria_id": 10,
+    "atributos": {
+      "talla": "S",
+      "color": "rojo"
+    },
+    "stock": 29
+  },
+  {
+    "nombre": "Portable Hard Drive 84",
+    "descripcion": "Fabricado con materiales premium para mayor rendimiento.",
+    "precio": 232.17,
+    "categoria_id": 5,
+    "atributos": {
+      "talla": "S",
+      "color": "rojo"
+    },
+    "stock": 28
+  },
+  {
+    "nombre": "Smartwatch 85",
+    "descripcion": "Producto de alta calidad diseñado para uso diario.",
+    "precio": 208.96,
+    "categoria_id": 8,
+    "atributos": {
+      "talla": "L",
+      "color": "rojo"
+    },
+    "stock": 180
+  },
+  {
+    "nombre": "Wireless Headphones 86",
+    "descripcion": "Producto confiable con larga vida útil.",
+    "precio": 229.45,
+    "categoria_id": 9,
+    "atributos": {
+      "talla": "Única",
+      "color": "negro"
+    },
+    "stock": 22
+  },
+  {
+    "nombre": "Electric Kettle 87",
+    "descripcion": "Producto de alta calidad diseñado para uso diario.",
+    "precio": 84.05,
+    "categoria_id": 4,
+    "atributos": {
+      "talla": "L",
+      "color": "verde"
+    },
+    "stock": 116
+  },
+  {
+    "nombre": "Cotton T-Shirt 88",
+    "descripcion": "Fabricado con materiales premium para mayor rendimiento.",
+    "precio": 160.78,
+    "categoria_id": 10,
+    "atributos": {
+      "talla": "XL",
+      "color": "verde"
+    },
+    "stock": 172
+  },
+  {
+    "nombre": "Portable Hard Drive 89",
+    "descripcion": "Cuenta con características que mejoran la experiencia del usuario.",
+    "precio": 235.14,
+    "categoria_id": 9,
+    "atributos": {
+      "talla": "S",
+      "color": "blanco"
+    },
+    "stock": 145
+  },
+  {
+    "nombre": "Sunglasses 90",
+    "descripcion": "Versátil y práctico en múltiples situaciones.",
+    "precio": 102.97,
+    "categoria_id": 6,
+    "atributos": {
+      "talla": "M",
+      "color": "gris"
+    },
+    "stock": 167
+  },
+  {
+    "nombre": "Keyboard Mechanical 91",
+    "descripcion": "Versátil y práctico en múltiples situaciones.",
+    "precio": 254.85,
+    "categoria_id": 6,
+    "atributos": {
+      "talla": "XL",
+      "color": "amarillo"
+    },
+    "stock": 122
+  },
+  {
+    "nombre": "Backpack 92",
+    "descripcion": "Producto confiable con larga vida útil.",
+    "precio": 83.52,
+    "categoria_id": 7,
+    "atributos": {
+      "talla": "Única",
+      "color": "amarillo"
+    },
+    "stock": 41
+  },
+  {
+    "nombre": "Wireless Headphones 93",
+    "descripcion": "Versátil y práctico en múltiples situaciones.",
+    "precio": 86.72,
+    "categoria_id": 2,
+    "atributos": {
+      "talla": "M",
+      "color": "amarillo"
+    },
+    "stock": 30
+  },
+  {
+    "nombre": "Keyboard Mechanical 94",
+    "descripcion": "Material resistente y duradero, ideal para actividades prolongadas.",
+    "precio": 75.43,
+    "categoria_id": 2,
+    "atributos": {
+      "talla": "M",
+      "color": "blanco"
+    },
+    "stock": 21
+  },
+  {
+    "nombre": "USB-C Charger 95",
+    "descripcion": "Perfecto para quienes buscan comodidad y eficiencia.",
+    "precio": 232.47,
+    "categoria_id": 2,
+    "atributos": {
+      "talla": "Única",
+      "color": "azul"
+    },
+    "stock": 128
+  },
+  {
+    "nombre": "Wireless Headphones 96",
+    "descripcion": "Material resistente y duradero, ideal para actividades prolongadas.",
+    "precio": 281.69,
+    "categoria_id": 4,
+    "atributos": {
+      "talla": "M",
+      "color": "rojo"
+    },
+    "stock": 103
+  },
+  {
+    "nombre": "Office Chair 97",
+    "descripcion": "Cuenta con características que mejoran la experiencia del usuario.",
+    "precio": 59.68,
+    "categoria_id": 4,
+    "atributos": {
+      "talla": "M",
+      "color": "gris"
+    },
+    "stock": 44
+  },
+  {
+    "nombre": "Cotton T-Shirt 98",
+    "descripcion": "Ofrece un equilibrio ideal entre calidad y precio.",
+    "precio": 148.36,
+    "categoria_id": 5,
+    "atributos": {
+      "talla": "S",
+      "color": "rojo"
+    },
+    "stock": 176
+  },
+  {
+    "nombre": "Portable Hard Drive 99",
+    "descripcion": "Versátil y práctico en múltiples situaciones.",
+    "precio": 83.3,
+    "categoria_id": 10,
+    "atributos": {
+      "talla": "Única",
+      "color": "azul"
+    },
+    "stock": 11
+  },
+  {
+    "nombre": "Coffee Mug 100",
+    "descripcion": "Cuenta con características que mejoran la experiencia del usuario.",
+    "precio": 286.3,
+    "categoria_id": 5,
+    "atributos": {
+      "talla": "Única",
+      "color": "blanco"
+    },
+    "stock": 129
+  }
+]
