@@ -1,0 +1,131 @@
+// ================================
+// CONSULTAS BÁSICAS
+// ================================
+
+// 1. Inserción de documentos
+db.productos.insertOne({
+  nombre: "Teclado Mecánico RGB",
+  descripcion: "Switch azul, retroiluminado",
+  precio: 150.99,
+  categoria_id: 1,
+  atributos: { color: "negro", tipo: "mecánico" },
+  stock: 25
+});
+
+// 2. Selección de documentos
+db.productos.find({ categoria_id: 1 });
+
+db.productos.find({ precio: { $gt: 100 } });
+
+db.productos.find({ "atributos.color": "negro" });
+
+// 3. Actualización de documentos
+db.productos.updateOne(
+  { nombre: "Teclado Mecánico RGB" },
+  { $set: { stock: 50 } }
+);
+
+// 4. Eliminación de documentos
+db.productos.deleteOne({ nombre: "Teclado Mecánico RGB" });
+
+
+// ================================
+// CONSULTAS CON FILTROS Y OPERADORES
+// ================================
+
+// Comparadores
+db.productos.find({ precio: { $gt: 100 } });
+db.productos.find({ stock: { $lt: 20 } });
+db.productos.find({ precio: { $gte: 20, $lte: 80 } });
+db.productos.find({ categoria_id: { $ne: 3 } });
+
+// Operadores lógicos
+db.productos.find({
+  $and: [
+    { categoria_id: 1 },
+    { "atributos.color": "negro" }
+  ]
+});
+
+db.productos.find({
+  $or: [
+    { "atributos.color": "negro" },
+    { "atributos.color": "azul" }
+  ]
+});
+
+db.productos.find({
+  precio: { $not: { $gt: 50 } }
+});
+
+// Existencia de campos
+db.productos.find({ "atributos.talla": { $exists: true } });
+db.productos.find({ "atributos.color": { $exists: false } });
+
+// Regex
+db.productos.find({
+  descripcion: { $regex: "deportivo", $options: "i" }
+});
+
+// $in y $all
+db.productos.find({ "atributos.talla": { $in: ["S", "XL"] } });
+
+db.productos.find({ "atributos.tallas": { $all: ["S", "M"] } });
+
+
+// ================================
+// CONSULTAS DE AGREGACIÓN (ESTADÍSTICAS)
+// ================================
+
+// 1. Contar documentos
+db.productos.aggregate([
+  { $count: "total_productos" }
+]);
+
+// 2. Promedio de precio
+db.productos.aggregate([
+  { $group: { _id: null, promedio_precio: { $avg: "$precio" } } }
+]);
+
+// 3. Suma del stock
+db.productos.aggregate([
+  { $group: { _id: null, stock_total: { $sum: "$stock" } } }
+]);
+
+// 4. Precio máximo
+db.productos.aggregate([
+  { $group: { _id: null, precio_maximo: { $max: "$precio" } } }
+]);
+
+// 5. Cantidad de productos por categoría
+db.productos.aggregate([
+  { $group: { _id: "$categoria_id", total: { $count: {} } } }
+]);
+
+// 6. Promedio de precio por categoría
+db.productos.aggregate([
+  { $group: { _id: "$categoria_id", promedio_precio: { $avg: "$precio" } } }
+]);
+
+// 7. Filtrar y contar precios mayores a 50
+db.productos.aggregate([
+  { $match: { precio: { $gt: 50 } } },
+  { $count: "mayores_de_50" }
+]);
+
+// 8. Stock total por categoría ordenado
+db.productos.aggregate([
+  { $group: { _id: "$categoria_id", total_stock: { $sum: "$stock" } } },
+  { $sort: { total_stock: -1 } }
+]);
+
+// 9. Proyección (seleccionar campos)
+db.productos.aggregate([
+  { $project: { nombre: 1, precio: 1, stock: 1, _id: 0 } }
+]);
+
+// 10. Limitar resultados
+db.productos.aggregate([
+  { $project: { nombre: 1, precio: 1 } },
+  { $limit: 5 }
+]);
